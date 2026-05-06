@@ -8,7 +8,7 @@
 // ============================================
 
 const CONFIG = {
-    API_URL: 'https://script.google.com/macros/s/AKfycbwV08EaOhiM8a-GVuk90EBmmJ9xLYfvt76__AUmmLmfT_vFrJUCLMP7s11Fhj5Y0Zn6/exec',
+    API_URL: 'https://script.google.com/macros/s/AKfycbyW70EjIzwr-S01uzYfrQYCIF8vt8hOWAPUwEzsTeV1BdxrC2oygy0sxCjHP9QeKyU7/exec',
     REFRESH_INTERVAL: 60000, // 60 seconds
     MARKETS: {
         sa: { name: 'Saudi Arabia', flag: '🇸🇦', code: 'TASI', currency: 'SAR', color: '#3b82f6' },
