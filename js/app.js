@@ -71,7 +71,7 @@ const DOM = {
     // Market stats
     saStats: document.getElementById('saStats'),
     egStats: document.getElementById('egStats'),
-    uaeStats: document.getElementById('uaeStats'),
+    aeStats: document.getElementById('aeStats'),
     
     // Movers
     topGainersList: document.getElementById('topGainersList'),
